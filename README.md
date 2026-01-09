@@ -116,35 +116,31 @@ if (!$conn) {
 
 ## Screenshot Implementasi
 
-1. halaman utama dengan pagination
+1. halaman login
 
-<img src="img/login.png" width="450">
-
-<img src="img/dashboard.png" width="450">
+<img src="login.png" width="450">
 
 2. form tambah barang
-<img src="img/tambah_barang.png" width="450">
+<img src="tambah.png" width="450">
 
-3. halaman edit barang
-<img src="img/edit_barang.png" width="450">
+3. tampilan hapus barang (admin)
+<img src="hapus.png" width="450">
 
-4. tampilan pagination
-<img src="img/pagination1.png" width="450">
+4. tampilan dashboard
+<img src="dashboard.png" width="450">
 
 5. tampilan pencarian data
-<img src="img/pencarian.png" width="450">
+<img src="cari.png" width="450">
 
 6.  tampilan produk
-<img src="img/produk.png" width="450">
+<img src="katalog.png" width="450">
 
 7. tampilan saat user login
-<img src="img/user.png" width="450">
+<img src="login.png" width="450">
 
 8. tampilan saat user melihat barang
-<img src="img/user1.png" width="450">
+<img src="kataloguser.png" width="450">
 
-9. tampilan hapus barang (admin)
-<img src="img/hapus.png" width="450">
 
 
 ## 📥 Cara Instalasi
